@@ -1,2 +1,2 @@
 # JavaScript-Fundamentals
-JavaScript Fundamentals – Homework and Exams
+JavaScript Fundamentals – Homework and Exams.
